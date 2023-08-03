@@ -1,0 +1,19 @@
+Género del juego: Metroidvania
+
+Aspectos generales del juego: El juego debe de poder manejarse en un ambiente estilo metroidvania, en el que el personaje pueda ir hacia adelante o atrás, arriba o abajo en la aventura subiendo plataformas, y abriendo puertas para poder ingresar a una zona en específico. El personaje debe de poder atacar y tener la posibilidad de hacer combos para atacar a los enemigos, los enemigos y el personaje debe de tener una barra de vida. Debe de poder conseguir objetos que lo ayuden en la aventura, que lo hagan cambiar de estado y que le otorgen la posibilidad de cambiar la modalidad de ataque. 
+
+Estilo de dibujo: Pixel art
+
+Estilo de juego: 2D
+
+Enemigos: 3 por cada zona
+
+Zonas o planetas: 4
+
+Boss: 4 (3 secuaces y el conquistador supremo)
+
+Personajes jugables: 1 (3 si se desbloquean en la partida)
+
+Tipo de juego: Líneal
+
+Referencias: Blasphemous, Juegos de Dragon Ball Z, Devil my Cry, Soul Calibur, Rival of Aether, Katana Zero, River City Girls

@@ -1,0 +1,5 @@
+Los actos significativos del juego van a poder variar tanto a lo ideal para nosotros como desarrolladores, a lo personal para los jugadores, sin embargo. Vamos a tener en cuenta que los jugadores van a ser recompensados en algunos momentos. Como por ejemplo. aumentar la barra de vida y magia, igualmente conseguir que pueda desbloquear alguna habilidad del juego, que no sea necesaria para terminar el mismo, pero que sea útil para el resto de la aventura en algunos puntos. Así mismo debería de poder desbloquearse con elementos narrativos que tengan que ver con la historia, así sea mínimo. Pero esto hará que el jugador se sienta más ameno con la experiencia del juego y el personaje como tal
+
+Atravesar los obstáculos que se le presentan en el nivel hasta llegar a cada Boss.
+
+Y posiblemente encontrar algún item que contribuya a la narrativa del juego, algo que tenga un valor para el jugador en cuánto a la historia pero que no sea significativo

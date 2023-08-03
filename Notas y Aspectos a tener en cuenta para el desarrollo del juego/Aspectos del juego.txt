@@ -1,0 +1,19 @@
+Género del juego: Metroidvania
+
+Estilo del arte y diseño del juego: Pixel art 2D
+
+Descripción de qué y cómo va a estár constituido el juego:
+
+Debe de tener una pantalla de inicio en la que se le de al botón de Inicio, y aparezcan las opciones para entrar en un modo de juego distinto, tenemos el modo aventura, el modo versus, el modo contra la computadora, torneo, entrenamiento y la opción de salir
+
+Modo aventura: A ciencia cierta va a ser un diseño de niveles en plataformeo, el personaje se desenvuelva de la misma que en el género mencionado metroidvania, el personaje debe de contar con una barra de vida, una barra para lanzar algún poder especial, si cae de un sitio muy alto debe de hacerse daño, debe de tener un inventario o en la pantalla debe de haber un apartado para poder recolectar llaves, con las que pueda abrir algunas puertas, debe de haber un sistema de diálogos en la historia, debe de haber encuentros con un boss para poder continuar e ir desbloqueando personajes en las otras modalidades de juego y también poderes o habilidades en el mismo modo historia.... Para poder seguir hablando del diseño de los niveles en el modo historia se necesita el storyboard
+
+Modo VS: Va a iniciar una pantalla en la que se seleccione el personaje que se va a utilizar para el combate, luego de seleccionar ambos un personaje debe de aparecer otra pantalla que de a escoger escenarios en los que se desarrolle el combate. Dentro del combate ambos personajes deben de tener una barra de salud obviamente, cada pelea debe de tener un tiempo para cada combate, deben de contabilizarse alrededor de 1 a 3 victorias para determinar quién es el verdadero ganador de un combate. Los personajes deben de dar no más de un doble salto, los escenarios de los combates deben de ser que los personajes estén sobre una plataforma... Si caen de la plataforma pierden la barra de salud y gana el que se quede en la plataforma. Los personajes deben de tener la posibilidad de poder realizar combos en la pelea.
+
+Modo VS CPU: Este modo es exactamente igual al anterior solo que el enemigo en combate va a ser la computadora y no contra un jugador. Debe de pensarse bien el aspecto de cómo hacer la inteligencia Artificial para el juego antes de poder hacer algo relacionado
+
+Modo Torneo: En esta opción tenemos la misma posibilidad que en el modo versus y el modo contra la CPU. Solo que vamos a escoger un personaje, para que se enfrente a un personaje trás otro para decidir si gana el torneo... Queda la posibilidad de contar con alguna recompensa al terminar el torneo para el jugador. (Ejemplo, se podría plantear la idea de poner una galería en el juego, y por cada personaje que vaya derrotando en el torneo puede ir desbloqueando una imágen o artwork del juego o de un personaje)
+
+Entrenamiento: En este modo puedes escoger un personaje u otro para poder manejar las mecánicas básicas en los combates y quizás aprender algún que otro combo de algún personaje
+
+Salir: Se cierra el juego
